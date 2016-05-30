@@ -1,0 +1,21 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.1" 
+[CURRENT_PROJECT]
+"Lab5" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\Lab5\Lab5\Empty.c" 
+"C:\WorkSpace\Lab5\Lab5\qsk_lcd.c" 
+"C:\WorkSpace\Lab5\Lab5\qsk_led.c" 
+"C:\WorkSpace\Lab5\Lab5\qsk_switch.c" 
+"C:\WorkSpace\Lab5\Lab5\sect30.inc" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\Lab5\Lab5\Empty.c" -4 -30 1232 438 1 0 
+"C:\WorkSpace\Lab5\Lab5\qsk_lcd.c" 66 87 1136 288 0 3 
+"C:\WorkSpace\Lab5\Lab5\qsk_led.c" 44 58 1136 288 0 2 
+"C:\WorkSpace\Lab5\Lab5\qsk_switch.c" 88 116 1136 288 0 4 
+"C:\WorkSpace\Lab5\Lab5\sect30.inc" 22 29 1136 288 0 1 
+[END]

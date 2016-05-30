@@ -1,0 +1,10 @@
+-L "nc30lib"
+-G
+-MS
+-O "C:\WorkSpace\Lab5\Lab5\Debug\Lab5.x30"
+"C:\WorkSpace\Lab5\Lab5\Debug\ncrt0.r30"
+"C:\WorkSpace\Lab5\Lab5\Debug\Empty.r30"
+"C:\WorkSpace\Lab5\Lab5\Debug\mcu_init.r30"
+"C:\WorkSpace\Lab5\Lab5\Debug\qsk_lcd.r30"
+"C:\WorkSpace\Lab5\Lab5\Debug\qsk_led.r30"
+"C:\WorkSpace\Lab5\Lab5\Debug\qsk_switch.r30"
